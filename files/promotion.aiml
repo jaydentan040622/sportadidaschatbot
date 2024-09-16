@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- Promotion Overview -->
+  <category>
+    <pattern>SUMMER SALE PROMOTION</pattern>
+    <template>
+      The Summer Sale promotion offers 20% off on all summer products.
+    </template>
+  </category>
+
+  <!-- Tops Section -->
+  <category>
+    <pattern>GRAPHIC T-SHIRT DETAILS</pattern>
+    <template>
+      Graphic T-shirt: Original Price RM80, Discount Price RM64. Trendy t-shirt with summer-themed graphics.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>TANK TOP DETAILS</pattern>
+    <template>
+      Tank Top: Original Price RM70, Discount Price RM56. Comfortable tank top ideal for hot weather.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>BUTTON-UP SHIRT DETAILS</pattern>
+    <template>
+      Button-Up Shirt: Original Price RM90, Discount Price RM72. Stylish button-up shirt suitable for casual outings.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>SLEEVELESS BLOUSE DETAILS</pattern>
+    <template>
+      Sleeveless Blouse: Original Price RM85, Discount Price RM68. Elegant sleeveless blouse for summer events.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>OFF-SHOULDER TOP DETAILS</pattern>
+    <template>
+      Off-Shoulder Top: Original Price RM75, Discount Price RM60. Fashionable off-shoulder top for a trendy look.
+    </template>
+  </category>
+
+  <!-- Bottoms Section -->
+  <category>
+    <pattern>SUMMER SHORTS DETAILS</pattern>
+    <template>
+      Summer Shorts: Original Price RM50, Discount Price RM40. Lightweight and comfortable shorts perfect for summer.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>DENIM SHORTS DETAILS</pattern>
+    <template>
+      Denim Shorts: Original Price RM55, Discount Price RM44. Classic denim shorts for casual wear.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>LIGHTWEIGHT SKIRT DETAILS</pattern>
+    <template>
+      Lightweight Skirt: Original Price RM60, Discount Price RM48. Chic skirt ideal for summer outings.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>CARGO SHORTS DETAILS</pattern>
+    <template>
+      Cargo Shorts: Original Price RM65, Discount Price RM52. Practical cargo shorts with multiple pockets.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>HOT PANTS DETAILS</pattern>
+    <template>
+      Hot Pants: Original Price RM70, Discount Price RM56. Comfortable beach pants for a relaxed look.
+    </template>
+  </category>
+</aiml>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- Track Order by Order ID -->
+  <category>
+    <pattern>TRACK ORDER ORD001</pattern>
+    <template>
+      Order ID: ORD001<br/>
+      Customer Name: John Doe<br/>
+      Status: Processing<br/>
+      Order Date: 2024-09-10<br/>
+      Expected Delivery: 2024-09-17<br/>
+      Shipping Address: 123 Main Street, Kuala Lumpur, 50050<br/>
+      Contact Number: 03-2380-1234<br/>
+      Store Location: Adidas KLCC<br/>
+      Email: john.doe@example.com<br/>
+      Total Amount: RM299.00
+    </template>
+  </category>
+
+  <category>
+    <pattern>TRACK ORDER ORD002</pattern>
+    <template>
+      Order ID: ORD002<br/>
+      Customer Name: Jane Smith<br/>
+      Status: Shipped<br/>
+      Order Date: 2024-09-09<br/>
+      Expected Delivery: 2024-09-16<br/>
+      Shipping Address: 456 Second Avenue, Petaling Jaya, 47800<br/>
+      Contact Number: 03-2290-5678<br/>
+      Store Location: Adidas Mid Valley<br/>
+      Email: jane.smith@example.com<br/>
+      Total Amount: RM499.00
+    </template>
+  </category>
+
+  <category>
+    <pattern>TRACK ORDER ORD003</pattern>
+    <template>
+      Order ID: ORD003<br/>
+      Customer Name: Ahmad Zain<br/>
+      Status: Delivered<br/>
+      Order Date: 2024-09-08<br/>
+      Expected Delivery: 2024-09-15<br/>
+      Shipping Address: 789 Third Street, Shah Alam, 40000<br/>
+      Contact Number: 03-3200-4321<br/>
+      Store Location: Adidas Sunway Pyramid<br/>
+      Email: ahmad.zain@example.com<br/>
+      Total Amount: RM349.00
+    </template>
+  </category>
+
+  <category>
+    <pattern>TRACK ORDER ORD004</pattern>
+    <template>
+      Order ID: ORD004<br/>
+      Customer Name: Emily Wong<br/>
+      Status: Cancelled<br/>
+      Order Date: 2024-09-05<br/>
+      Expected Delivery: N/A<br/>
+      Shipping Address: 101 Fourth Lane, Ampang, 68000<br/>
+      Contact Number: 03-2100-9876<br/>
+      Store Location: Adidas The Gardens Mall<br/>
+      Email: emily.wong@example.com<br/>
+      Total Amount: RM0.00
+    </template>
+  </category>
+
+  <!-- Track Order by Customer Name -->
+  <category>
+    <pattern>TRACK ORDER JOHN DOE</pattern>
+    <template>
+      Order ID: ORD001<br/>
+      Customer Name: John Doe<br/>
+      Status: Processing<br/>
+      Order Date: 2024-09-10<br/>
+      Expected Delivery: 2024-09-17<br/>
+      Shipping Address: 123 Main Street, Kuala Lumpur, 50050<br/>
+      Contact Number: 03-2380-1234<br/>
+      Store Location: Adidas KLCC<br/>
+      Email: john.doe@example.com<br/>
+      Total Amount: RM299.00
+    </template>
+  </category>
+
+  <category>
+    <pattern>TRACK ORDER JANE SMITH</pattern>
+    <template>
+      Order ID: ORD002<br/>
+      Customer Name: Jane Smith<br/>
+      Status: Shipped<br/>
+      Order Date: 2024-09-09<br/>
+      Expected Delivery: 2024-09-16<br/>
+      Shipping Address: 456 Second Avenue, Petaling Jaya, 47800<br/>
+      Contact Number: 03-2290-5678<br/>
+      Store Location: Adidas Mid Valley<br/>
+      Email: jane.smith@example.com<br/>
+      Total Amount: RM499.00
+    </template>
+  </category>
+
+  <category>
+    <pattern>TRACK ORDER AHMAD ZAIN</pattern>
+    <template>
+      Order ID: ORD003<br/>
+      Customer Name: Ahmad Zain<br/>
+      Status: Delivered<br/>
+      Order Date: 2024-09-08<br/>
+      Expected Delivery: 2024-09-15<br/>
+      Shipping Address: 789 Third Street, Shah Alam, 40000<br/>
+      Contact Number: 03-3200-4321<br/>
+      Store Location: Adidas Sunway Pyramid<br/>
+      Email: ahmad.zain@example.com<br/>
+      Total Amount: RM349.00
+    </template>
+  </category>
+
+  <category>
+    <pattern>TRACK ORDER EMILY WONG</pattern>
+    <template>
+      Order ID: ORD004<br/>
+      Customer Name: Emily Wong<br/>
+      Status: Cancelled<br/>
+      Order Date: 2024-09-05<br/>
+      Expected Delivery: N/A<br/>
+      Shipping Address: 101 Fourth Lane, Ampang, 68000<br/>
+      Contact Number: 03-2100-9876<br/>
+      Store Location: Adidas The Gardens Mall<br/>
+      Email: emily.wong@example.com<br/>
+      Total Amount: RM0.00
+    </template>
+  </category>
+
+</aiml>

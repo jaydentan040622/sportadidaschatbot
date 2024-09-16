@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- General Recommendations -->
+  <category>
+    <pattern>RECOMMEND ME A PRODUCT</pattern>
+    <template>
+      Here are some of our recommended products:<br/><br/>
+       Summer Maxi Dress<br/>
+      Casual Shift Dress<br/>
+      Wrap Dress<br/>
+      Fit-and-Flare Dress<br/>
+      Sundress<br/>
+      Button-Down Shirt<br/>
+      Plaid Flannel Shirt<br/>
+      <br/>
+      For more details on any of these products, just let me know!
+    </template>
+  </category>
+  
+  <category>
+    <pattern>RECOMMEND SUMMER MAXI DRESS</pattern>
+    <template>
+      Name: Summer Maxi Dress<br/>
+      Description: A flowy maxi dress perfect for summer outings.<br/>
+      Selling Price: RM149<br/>
+      Color: Red, Blue, Green<br/>
+      Availability: In stock<br/>
+      Sizes: S, M, L, XL<br/>
+      Rating: 4.6<br/>
+      Features:<br/>
+      - Lightweight fabric<br/>
+      - Elegant design<br/>
+      - Available in various colors
+    </template>
+  </category>
+
+  <category>
+    <pattern>RECOMMEND CASUAL SHIFT DRESS</pattern>
+    <template>
+      Name: Casual Shift Dress<br/>
+      Description: Comfortable shift dress suitable for casual wear.<br/>
+      Selling Price: RM119<br/>
+      Color: Black, White, Navy<br/>
+      Availability: In stock<br/>
+      Sizes: S, M, L<br/>
+      Rating: 4.5<br/>
+      Features:<br/>
+      - Relaxed fit<br/>
+      - Versatile for day and night<br/>
+      - Easy to accessorize
+    </template>
+  </category>
+
+  <category>
+    <pattern>RECOMMEND WRAP DRESS</pattern>
+    <template>
+      Name: Wrap Dress<br/>
+      Description: A chic wrap dress that cinches at the waist for a flattering fit.<br/>
+      Selling Price: RM139<br/>
+      Color: Pink, Burgundy, Navy<br/>
+      Availability: In stock<br/>
+      Sizes: M, L, XL<br/>
+      Rating: 4.7<br/>
+      Features:<br/>
+      - Adjustable wrap tie<br/>
+      - Soft, flowing fabric<br/>
+      - Perfect for various occasions
+    </template>
+  </category>
+
+  <category>
+    <pattern>RECOMMEND FIT-AND-FLARE DRESS</pattern>
+    <template>
+      Name: Fit-and-Flare Dress<br/>
+      Description: A stylish dress that flares out from the waist for a classic look.<br/>
+      Selling Price: RM129<br/>
+      Color: Teal, Black, Maroon<br/>
+      Availability: In stock<br/>
+      Sizes: S, M, L<br/>
+      Rating: 4.8<br/>
+      Features:<br/>
+      - Flattering fit-and-flare silhouette<br/>
+      - Comfortable fabric<br/>
+      - Elegant design
+    </template>
+  </category>
+
+  <category>
+    <pattern>RECOMMEND SUNDRESS</pattern>
+    <template>
+      Name: Sundress<br/>
+      Description: A casual sundress ideal for warm weather.<br/>
+      Selling Price: RM109<br/>
+      Color: Yellow, Blue, Coral<br/>
+      Availability: In stock<br/>
+      Sizes: S, M, L<br/>
+      Rating: 4.4<br/>
+      Features:<br/>
+      - Lightweight and breathable<br/>
+      - Adjustable straps<br/>
+      - Bright and cheerful colors
+    </template>
+  </category>
+
+  <!-- Recommendations for Shirts -->
+  <category>
+    <pattern>RECOMMEND BUTTON-DOWN SHIRT</pattern>
+    <template>
+      Name: Button-Down Shirt<br/>
+      Description: Classic button-down shirt for a formal look.<br/>
+      Selling Price: RM129<br/>
+      Color: White, Light Blue, Grey<br/>
+      Availability: In stock<br/>
+      Sizes: M, L, XL<br/>
+      Rating: 4.8<br/>
+      Features:<br/>
+      - 100% cotton<br/>
+      - Perfect for office wear<br/>
+      - Easy to iron
+    </template>
+  </category>
+
+  <category>
+    <pattern>RECOMMEND PLAID FLANNEL SHIRT</pattern>
+    <template>
+      Name: Plaid Flannel Shirt<br/>
+      Description: Warm flannel shirt with a plaid pattern for casual wear.<br/>
+      Selling Price: RM109<br/>
+      Color: Red Plaid, Blue Plaid<br/>
+      Availability: In stock<br/>
+      Sizes: S, M, L<br/>
+      Rating: 4.7<br/>
+      Features:<br/>
+      - Soft flannel fabric<br/>
+      - Great for layering<br/>
+      - Stylish plaid design
+    </template>
+  </category>
+
+</aiml>

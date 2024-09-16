@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <category>
+    <pattern>*</pattern>
+    <template>can be more details?</template>
+  </category>
+  
+<category>
+  <pattern>HI </pattern>
+  <template>
+    <random>
+      <li>Hi! Welcome to Adidas. How can I assist you with your shopping today? 🛍️</li>
+      <li>Hello there! I'm here to help you find the perfect Adidas gear. What can I do for you? 👟</li>
+      <li>Hey! Welcome to Adidas. Are you looking for something specific or need some recommendations? 🤗</li>
+      <li>Good day! What brings you to Adidas today? Shoes, apparel, or something else? 👕</li>
+      <li>Hello! Ready to find some amazing Adidas products? How can I assist you? 🏅</li>
+      <li>Hi! Whether it's sneakers, clothing, or accessories, I'm here to help. What can I assist you with? 👟👕</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>HELLO </pattern>
+  <template>
+    <random>
+      <li>Hi! Welcome to Adidas. How can I assist you with your shopping today? 🛍️</li>
+      <li>Hello there! I'm here to help you find the perfect Adidas gear. What can I do for you? 👟</li>
+      <li>Hey! Welcome to Adidas. Are you looking for something specific or need some recommendations? 🤗</li>
+      <li>Good day! What brings you to Adidas today? Shoes, apparel, or something else? 👕</li>
+      <li>Hello! Ready to find some amazing Adidas products? How can I assist you? 🏅</li>
+      <li>Hi! Whether it's sneakers, clothing, or accessories, I'm here to help. What can I assist you with? 👟👕</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>HEY THERE!</pattern>
+  <template>
+    <random>
+      <li>Hi! Welcome to Adidas. How can I assist you with your shopping today? 🛍️</li>
+      <li>Hello there! I'm here to help you find the perfect Adidas gear. What can I do for you? 👟</li>
+      <li>Hey! Welcome to Adidas. Are you looking for something specific or need some recommendations? 🤗</li>
+      <li>Good day! What brings you to Adidas today? Shoes, apparel, or something else? 👕</li>
+      <li>Hello! Ready to find some amazing Adidas products? How can I assist you? 🏅</li>
+      <li>Hi! Whether it's sneakers, clothing, or accessories, I'm here to help. What can I assist you with? 👟👕</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>GOOD MORNING </pattern>
+  <template>
+    <random>
+      <li>Hi! Welcome to Adidas. How can I assist you with your shopping today? 🛍️</li>
+      <li>Hello there! I'm here to help you find the perfect Adidas gear. What can I do for you? 👟</li>
+      <li>Hey! Welcome to Adidas. Are you looking for something specific or need some recommendations? 🤗</li>
+      <li>Good day! What brings you to Adidas today? Shoes, apparel, or something else? 👕</li>
+      <li>Hello! Ready to find some amazing Adidas products? How can I assist you? 🏅</li>
+      <li>Hi! Whether it's sneakers, clothing, or accessories, I'm here to help. What can I assist you with? 👟👕</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>BYE</pattern>
+  <template>
+    <random>
+      <li>Goodbye! Have a great day!</li>
+      <li>Take care! Feel free to come back if you need anything else.</li>
+      <li>See you later! Have an amazing day!</li>
+      <li>Catch you later! Let us know if you need any more help.</li>
+      <li>Goodbye! Hope you found everything you were looking for.</li>
+      <li>Until next time! Enjoy your day and come back soon!</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>SEE YOU LATER</pattern>
+  <template>
+    <random>
+      <li>Bye! It was great assisting you today. Reach out anytime!</li>
+      <li>Have a wonderful day ahead! Don't hesitate to return if you need anything.</li>
+      <li>Farewell! We hope to see you again soon.</li>
+      <li>Take care! We'll be here if you need any more assistance.</li>
+      <li>Goodbye! It was a pleasure assisting you today.</li>
+      <li>See you later! Don't hesitate to get in touch if you need more help.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>GOODBYE</pattern>
+  <template>
+    <random>
+      <li>Bye for now! Have a fantastic day!</li>
+      <li>Until next time! We look forward to helping you again.</li>
+      <li>It was great chatting with you. Goodbye and take care!</li>
+      <li>Thanks for stopping by! Have a great rest of your day!</li>
+      <li>Goodbye! Feel free to reach out if you need more assistance.</li>
+      <li>Catch you later! If you need anything, just let us know.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>TAKE CARE</pattern>
+  <template>
+    <random>
+      <li>See you soon! Have a wonderful day ahead!</li>
+      <li>Take care! We'll be here whenever you need assistance.</li>
+      <li>Goodbye! Looking forward to our next interaction.</li>
+      <li>It was nice talking to you! Have a great day ahead.</li>
+      <li>Farewell! Have a pleasant day and see you soon.</li>
+      <li>Goodbye! Hope you enjoyed our chat. Have a good one.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>CATCH YOU LATER</pattern>
+  <template>
+    <random>
+      <li>See you soon! Don't be a stranger.</li>
+      <li>Goodbye! Hope you enjoyed our chat.</li>
+      <li>Take care! Until we meet again.</li>
+      <li>Catch you later! Have a good one.</li>
+      <li>Goodbye! Looking forward to our next chat.</li>
+      <li>Farewell! Have a pleasant day ahead.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>SEE YOU SOON</pattern>
+  <template>
+    <random>
+      <li>Goodbye! Have a fantastic day.</li>
+      <li>Catch you later! Reach out if you need more help.</li>
+      <li>See you soon! If you need anything, just ask.</li>
+      <li>Bye for now! Let us know if you need anything else.</li>
+      <li>See you later! Feel free to come back anytime.</li>
+      <li>Goodbye! We're here if you need more assistance.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>I'M LEAVING</pattern>
+  <template>
+    <random>
+      <li>Goodbye! It was a pleasure assisting you today.</li>
+      <li>Take care! Have a wonderful rest of your day.</li>
+      <li>See you later! Hope you found everything you were looking for.</li>
+      <li>Until next time! Have a great day.</li>
+      <li>Farewell! We hope to see you again soon.</li>
+      <li>Goodbye! Looking forward to our next interaction.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>THANKS</pattern>
+  <template>
+    <random>
+      <li>You're welcome! Goodbye and have a fantastic day.</li>
+      <li>My pleasure! Take care and see you soon.</li>
+      <li>Thanks for stopping by! Have a great day ahead.</li>
+      <li>You're very welcome! Feel free to reach out if you need more assistance.</li>
+      <li>Glad I could help! See you later and have a wonderful day.</li>
+      <li>Thank you! Goodbye! Don't hesitate to return if you need anything.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>HAVE A GREAT DAY</pattern>
+  <template>
+    <random>
+      <li>Thank you! Wishing you a fantastic day ahead as well.</li>
+      <li>Goodbye! Hope your day is as great as you are.</li>
+      <li>Take care! Looking forward to helping you again soon.</li>
+      <li>Farewell! Enjoy your day and come back if you need anything.</li>
+      <li>Thanks! Have a wonderful day and don't hesitate to return.</li>
+      <li>See you soon! Have an amazing day ahead.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>UNTIL NEXT TIME</pattern>
+  <template>
+    <random>
+      <li>Goodbye! Looking forward to our next chat.</li>
+      <li>Take care! I'll be here when you need me again.</li>
+      <li>Farewell! Have a pleasant time until we meet again.</li>
+      <li>Goodbye for now! I hope to assist you again soon.</li>
+      <li>Until next time! Wishing you a fantastic day ahead.</li>
+      <li>Bye for now! Don't hesitate to return when you're ready.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>I'LL TALK TO YOU LATER</pattern>
+  <template>
+    <random>
+      <li>Sounds good! Take care until next time.</li>
+      <li>Catch you later! Feel free to reach out anytime.</li>
+      <li>Goodbye! Looking forward to chatting with you again soon.</li>
+      <li>Talk to you later! Have a great day ahead.</li>
+      <li>See you soon! Let me know if you need anything in the meantime.</li>
+      <li>Goodbye! I'm always here when you're ready to chat again.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>SEE YOU AROUND</pattern>
+  <template>
+    <random>
+      <li>Catch you later! Don't be a stranger.</li>
+      <li>Goodbye! Hope to see you around soon.</li>
+      <li>Take care! See you again in the near future.</li>
+      <li>See you around! Have a great day ahead.</li>
+      <li>Goodbye! I hope to assist you again soon.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>GOODBYE FOR NOW</pattern>
+  <template>
+    <random>
+      <li>Goodbye for now! I hope to assist you again soon.</li>
+      <li>Take care for now! Don't hesitate to come back if you need anything.</li>
+      <li>See you later! Have a wonderful day ahead.</li>
+      <li>Goodbye for now! We'll be here when you need more help.</li>
+      <li>Farewell! Looking forward to helping you again soon.</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>TELL ME ABOUT THE SHIPPING OPTIONS </pattern>
+  <template>
+    <random>
+      <li>We offer two main shipping options: **Standard** and **Express**. 🚚 Standard shipping costs RM10 and takes 3-5 business days, while Express shipping 🚀 can get your items to you in just 1-2 days. How fast do you need your order to arrive?</li>
+      <li>For Standard shipping, it typically takes 3-5 business days, while Express shipping will get it to you within 1-2 business days! Need any help choosing? 📦✈️</li>
+      <li>Standard shipping costs RM10, and Express shipping varies depending on your location and items. Which one works best for you? 💸📦</li>
+      <li>We can check the status of your order! Just provide your Order ID or email address, and I'll help track it for you. 🔍📦</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>WHAT ARE THE SHIPPING METHODS AVAILABLE</pattern>
+  <template>
+    <random>
+      <li>We offer two main shipping options: **Standard** and **Express**. 🚚 Standard shipping costs RM10 and takes 3-5 business days, while Express shipping 🚀 can get your items to you in just 1-2 days. How fast do you need your order to arrive?</li>
+      <li>For Standard shipping, it typically takes 3-5 business days, while Express shipping will get it to you within 1-2 business days! Need any help choosing? 📦✈️</li>
+      <li>Standard shipping costs RM10, and Express shipping varies depending on your location and items. Which one works best for you? 💸📦</li>
+      <li>We can check the status of your order! Just provide your Order ID or email address, and I'll help track it for you. 🔍📦</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>*SHIPPING*</pattern>
+  <template>
+    <random>
+      <li>We offer two main shipping options: **Standard** and **Express**. 🚚 Standard shipping costs RM10 and takes 3-5 business days, while Express shipping 🚀 can get your items to you in just 1-2 days. How fast do you need your order to arrive?</li>
+      <li>For Standard shipping, it typically takes 3-5 business days, while Express shipping will get it to you within 1-2 business days! Need any help choosing? 📦✈️</li>
+      <li>Standard shipping costs RM10, and Express shipping varies depending on your location and items. Which one works best for you? 💸📦</li>
+      <li>We can check the status of your order! Just provide your Order ID or email address, and I'll help track it for you. 🔍📦</li>
+    </random>
+  </template>
+</category>
+
+<category>
+
+  <pattern>CAN YOU EXPLAIN SHIPPING</pattern>
+  <template>
+    <random>
+      <li>We offer two main shipping options: **Standard** and **Express**. 🚚 Standard shipping costs RM10 and takes 3-5 business days, while Express shipping 🚀 can get your items to you in just 1-2 days. How fast do you need your order to arrive?</li>
+      <li>For Standard shipping, it typically takes 3-5 business days, while Express shipping will get it to you within 1-2 business days! Need any help choosing? 📦✈️</li>
+      <li>Standard shipping costs RM10, and Express shipping varies depending on your location and items. Which one works best for you? 💸📦</li>
+      <li>We can check the status of your order! Just provide your Order ID or email address, and I'll help track it for you. 🔍📦</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>COST SHIPPING</pattern>
+  <template>
+    <random>
+      <li>Standard shipping costs RM10, while Express shipping varies depending on your location and items. Which one works best for you? 💸📦</li>
+      <li>Shipping rates start at RM10 for Standard, but if you need your items quickly, Express shipping 🚀 rates vary based on the distance.</li>
+      <li>For Express shipping 🚚, costs vary depending on location, but Standard shipping is a flat RM10. Let me know if you need help deciding! 💸</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>WHAT SHIPPING OPTIONS DO YOU HAVE </pattern>
+  <template>
+    <random>
+      <li>We offer two main shipping options: **Standard** and **Express**. 🚚 Standard shipping costs RM10 and takes 3-5 business days, while Express shipping 🚀 can get your items to you in just 1-2 days. How fast do you need your order to arrive?</li>
+      <li>For Standard shipping, it typically takes 3-5 business days, while Express shipping will get it to you within 1-2 business days! Need any help choosing? 📦✈️</li>
+      <li>Standard shipping costs RM10, and Express shipping varies depending on your location and items. Which one works best for you? 💸📦</li>
+      <li>We can check the status of your order! Just provide your Order ID or email address, and I'll help track it for you. 🔍📦</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>HOW FAST IS THE SHIPPING</pattern>
+  <template>
+    <random>
+      <li>For Standard shipping, it typically takes 3-5 business days, while Express shipping will get it to you within 1-2 business days! Need any help choosing? 📦✈️</li>
+      <li>Standard shipping costs RM10, and Express shipping can get your items delivered faster, usually in 1-2 days depending on your location. 🚀</li>
+      <li>We offer Express shipping, which ensures delivery in 1-2 business days if you need your items fast. 🚚⏱️</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>WHAT'S THE COST OF SHIPPING </pattern>
+  <template>
+    <random>
+      <li>Standard shipping costs RM10, while Express shipping varies depending on your location and items. Which one works best for you? 💸📦</li>
+      <li>Shipping rates start at RM10 for Standard, but if you need your items quickly, Express shipping 🚀 rates vary based on the distance.</li>
+      <li>For Express shipping 🚚, costs vary depending on location, but Standard shipping is a flat RM10. Let me know if you need help deciding! 💸</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>IS MY ORDER SHIPPED YET </pattern>
+  <template>
+    <random>
+      <li>We can check the status of your order! Just provide your Order ID or email address, and I'll help track it for you. 🔍📦</li>
+      <li>If you provide your Order ID, I can check the shipping status right away for you. 🛒📦</li>
+      <li>Let me help you track your order. Please share your Order ID or email, and I’ll check if it's shipped yet. 🔍📦</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>HOW DOES EXPRESS SHIPPING WORK </pattern>
+  <template>
+    <random>
+      <li>Express shipping ensures that your items arrive in 1-2 business days, depending on your location. Let me know if you'd like to use it! 🚀</li>
+      <li>With Express shipping, you can expect your items in 1-2 days, perfect for urgent deliveries. 📦💨</li>
+      <li>Express shipping gets your order delivered within 1-2 days, depending on your location. Need faster delivery? This is the option! ⏩📦</li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>I NEED FASTER SHIPPING WHAT CAN I CHOOSE </pattern>
+  <template>
+    <random>
+      <li>Express shipping is your fastest option, delivering your order in just 1-2 business days. Need help with it? 🚀</li>
+      <li>If you need it fast, Express shipping 🚀 can deliver in 1-2 business days! Let me know if you’d like to use it.</li>
+      <li>For faster shipping, you can choose Express, which gets your items to you in 1-2 days. Would you like more information on it? ⏩</li>
+    </random>
+  </template>
+</category>
+
+
+
+
+  
+</aiml>

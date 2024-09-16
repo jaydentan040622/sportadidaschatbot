@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	  <!-- Category for asking about Beach Shorts -->
+  <category>
+    <pattern>BEACH SHORTS</pattern>
+    <template>
+      <random>
+        <li>Beach Shorts are available in Black for RM40. These shorts are made of stretchy woven fabric with an elastic waistband. Perfect for a day at the beach! 🌊</li>
+        <li>Our Beach Shorts cost RM40 and are available in Black. Made for comfort, they feature an elastic waistband for a sporty look. 🏖️</li>
+      </random>
+    </template>
+  </category>
+  
+  <!-- Category for asking about Mexico Away Jersey -->
+  <category>
+    <pattern>MEXICO AWAY JERSEY</pattern>
+    <template>
+      <random>
+        <li>The Mexico Away Jersey is available for RM70 in White. It's made of soft, quick-drying fabric and is perfect for juniors who want to show pride in their soccer team. ⚽</li>
+        <li>Our Mexico Away Jersey, priced at RM70, is designed for comfort and style. The team badge on the chest displays your pride. Available in White. 🌟</li>
+      </random>
+    </template>
+  </category>
+
+  <!-- Category for asking about Adicross Hybrid Shorts -->
+  <category>
+    <pattern>ADICROSS HYBRID SHORTS</pattern>
+    <template>
+      <random>
+        <li>Adicross Hybrid Shorts are available in Black for RM80. These ultra-lightweight shorts are perfect for staying focused on the golf course, even as temperatures rise. 🏌️‍♂️</li>
+        <li>Our Adicross Hybrid Shorts cost RM80 and come in Black. Lightweight and comfortable, they're ideal for golfing in warm weather. 🏌️‍♀️</li>
+      </random>
+    </template>
+  </category>
+
+  <!-- Category for asking about availability of products -->
+  <category>
+    <pattern>IS * AVAILABLE</pattern>
+    <template>
+      <random>
+        <li>Yes, <star/> is available and in stock! Feel free to order it now. 😊</li>
+        <li><star/> is currently in stock. Let us know if you need help placing an order! 🛒</li>
+      </random>
+    </template>
+  </category>
+
+  <!-- Category for asking about product categories -->
+  <category>
+    <pattern>WHAT CLOTHING DO YOU HAVE</pattern>
+    <template>
+      <random>
+        <li>We offer a variety of clothing items including shorts, jerseys, polo shirts, swimsuits, tights, tank tops, dresses, and more. Check out our collection! 👚👕</li>
+        <li>Our clothing range includes Beach Shorts, Mexico Away Jerseys, Polo Shirts, Tights, Dresses, and more. Browse through our collection to find your perfect fit! 👕👖</li>
+      </random>
+    </template>
+  </category>
+
+  <!-- Category for asking about a product by ID -->
+  <category>
+    <pattern>WHAT IS PRODUCT C001</pattern>
+    <template>
+      <random>
+        <li>Product C001 is our Beach Shorts, priced at RM40. These black shorts are perfect for a day at the beach and come with a sporty elastic waistband. 🏖️</li>
+        <li>Beach Shorts (C001) cost RM40 and are designed for comfort with a stretchy woven fabric and an elastic waistband. Available in Black. 🌊</li>
+      </random>
+    </template>
+  </category>
+</aiml>
